@@ -1,6 +1,6 @@
 {
-  "name": "react-add-to-calendar-hoc",
-  "version": "1.0.10",
+  "name": "@emreerdogan/react-add-to-calendar-hoc",
+  "version": "1.1.0",
   "description": "Simple Unopinionated React Add to Calendar Button. Bring your own components.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
   "keywords": [],
   "license": "MIT",
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.2.0",
-    "react-dom": "^15.3.0 || ^16.2.0"
+    "react": "^15.3.0 || ^16.2.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^15.3.0 || ^16.2.0 || ^17.0.0 || ^18.0.0"
   },
   "dependencies": {
     "core-js": "^2.5.7",
@@ -56,6 +56,6 @@
   "homepage": "http://leibowitz.me/react-add-to-calendar-hoc/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jasonleibowitz/react-add-to-calendar-hoc.git"
+    "url": "git@github.com:EmreErdogan/react-add-to-calendar-hoc.git"
   }
 }
